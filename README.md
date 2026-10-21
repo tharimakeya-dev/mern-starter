@@ -2,9 +2,6 @@
 
 A full-stack web application built with the MERN stack (MongoDB, Express, React, Node.js), featuring user authentication, profiles, and posts.
 
-**Live Demo:** https://mern-starter-uk9f.onrender.com
-
-> Note: This app is hosted on Render's free plan. If it has been inactive, the first load may take around 50 seconds while the server wakes up.
 
 ## Features
 
