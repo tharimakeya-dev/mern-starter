@@ -2,7 +2,8 @@
 
 A full-stack web application built with the MERN stack (MongoDB, Express, React, Node.js), featuring user authentication, profiles, and posts.
 
-**Live Demo:** https://mern-starter-uk9f.onrender.com
+**Live Demo:** mern-starter-uk9f.onrender.com
+
 
 ## Features
 
